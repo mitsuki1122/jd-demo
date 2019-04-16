@@ -1,0 +1,11 @@
+{
+    
+        "cmsBanner": [
+            {"image_url": "/static/images/banner1.png", "name": "p1"},
+            {"image_url": "/static/images/banner2.png", "name": "p2"},
+            {"image_url": "/static/images/banner3.png", "name": "p3"},
+            {"image_url": "/static/images/banner4.png", "name": "p4"},
+            {"image_url": "/static/images/banner5.png", "name": "p5"}
+            ]
+    
+}

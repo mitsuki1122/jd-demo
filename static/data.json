@@ -1,0 +1,108 @@
+{
+    
+        "cmsBanner": [
+            {"image_url": "/static/images/banner1.png", "name": "p1"},
+            {"image_url": "/static/images/banner2.png", "name": "p2"},
+            {"image_url": "/static/images/banner3.png", "name": "p3"},
+            {"image_url": "/static/images/banner4.png", "name": "p4"},
+            {"image_url": "/static/images/banner5.png", "name": "p5"}
+            ],
+        "searchHot": [
+            "华为手机", "空气净化器", "便携桌椅",
+            "华为手机荣耀", "智能手表", "空气净化器",
+            "华为手机", "苹果智能手表", "空气净化器"
+        ],
+        "recommendProduct": [
+            {"image_url": "/static/images/product1.jpg", "name":"满300减180三只松鼠开心100g坚果零食炒货", "price": "39.9"},
+            {"image_url": "/static/images/product2.jpg", "name":"满300减180三只松鼠开心100g坚果零食炒货", "price": "39.9"},
+            {"image_url": "/static/images/product3.jpg", "name":"满300减180三只松鼠开心100g坚果零食炒货", "price": "39.9"},
+            {"image_url": "/static/images/product4.jpg", "name":"满300减180三只松鼠开心100g坚果零食炒货", "price": "39.9"},
+            {"image_url": "/static/images/product5.jpg", "name":"满300减180三只松鼠开心100g坚果零食炒货", "price": "39.9"},
+            {"image_url": "/static/images/product6.jpg", "name":"满300减180三只松鼠开心100g坚果零食炒货", "price": "39.9"}
+
+        ],
+        "categoryList": [
+            {"name": "热门推荐"},
+            {"name": "手机数码"},
+            {"name": "家用电器"},
+            {"name": "电脑办公"},
+            {"name": "美妆护肤"},
+            {"name": "个护清洁"},
+            {"name": "汽车用品"},
+            {"name": "京东超市"},
+            {"name": "男装"},
+            {"name": "女装"},
+            {"name": "男装"},
+            {"name": "男鞋"},
+            {"name": "女鞋"},
+            {"name": "母婴童装"},
+            {"name": "图书音像"},
+            {"name": "户外运动"},
+            {"name": "内衣配饰"},
+            {"name": "食品生鲜"},
+            {"name": "酒水饮料"}
+        ],
+        "categoryContent": {
+            "categoryCont1": [
+                { "categoryitem1": {
+                        
+                        "title":"热门品牌", 
+                        "images": [
+                            {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                            {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                            {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                            {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                            {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                            {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                            {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                            {"image_url": "/static/images/product1.jpg", "name":"小米"}
+                        ] 
+                    }   
+                },
+                { "categoryitem2": {
+                        
+                    "title":"手机通讯", 
+                    "images": [
+                        {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                        {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                        {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                        {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                        {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                        {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                        {"image_url": "/static/images/product1.jpg", "name":"小米"},
+                        {"image_url": "/static/images/product1.jpg", "name":"小米"}
+                    ] 
+                }   
+            }
+            ]
+        },
+        
+        "skuinfo": {
+            "id": "1",
+            "property": [
+                {"name":"颜色","kinds":["深灰色","银色"]},
+                {"name":"版本","kinds":["公开版","联保版","分期用"]},
+                {"name":"内存","kinds":["64G","128G"]},
+                {"name":"方式","kinds":["官方标配","移动优惠版","联通优惠版"]}
+
+            ],
+            "params":[
+                {"id":"1", "skuid":"0,0,0,0", "color":"深灰色", "version":"公开版", "storage":"64G", "method":"官方标配","inven":"199", "price":"6299"},
+                {"id":"1", "skuid":"1,0,0,0", "color":"银色", "version":"公开版", "storage":"64G", "method":"官方标配","inven":"129", "price":"7299"},
+                {"id":"1", "skuid":"0,1,0,0", "color":"深灰色", "version":"联保版", "storage":"64G", "method":"官方标配","inven":"99", "price":"8299"},
+                {"id":"1", "skuid":"0,0,1,0", "color":"深灰色", "version":"公开版", "storage":"128G", "method":"官方标配","inven":"55", "price":"9299"},
+                {"id":"1", "skuid":"1,0,1,0", "color":"银色", "version":"公开版", "storage":"128G", "method":"官方标配","inven":"22", "price":"10299"}
+            ]
+    
+
+        },
+
+        "sellerslist": [
+            {"name": "京东自营官方旗舰店"},
+            {"name": "拍拍二手京东自营店"},
+            {"name": "佳沪手机旗舰店"}
+        ]
+        
+        
+    
+}
